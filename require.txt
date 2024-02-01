@@ -1,0 +1,5 @@
+pandas
+numpy
+matplotlib
+feature-engine
+scikit-learn
